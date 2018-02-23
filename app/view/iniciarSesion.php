@@ -160,8 +160,8 @@ if( !isset($_SESSION['idSesion']) )  {
         
     <?php include 'footer.php'; ?>  
     
-    <script src="../../../sugpa/bastrap3/js/jquery.min.js"></script>
-    <script src="../../../sugpa/bastrap3/js/bootstrap.min.js"></script>
+    <script src="../../../login/bastrap3/js/jquery.min.js"></script>
+    <script src="../../../login/bastrap3/js/bootstrap.min.js"></script>
 
         
     </body>
